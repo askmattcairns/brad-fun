@@ -1,4 +1,5 @@
 This is just a sample text document.
-It has a few lines.
+It has a more lines.
+I changed this too.
 You can make changes.
 And stuff happens.
